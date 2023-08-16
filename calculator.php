@@ -49,6 +49,7 @@
             case '/':
                 $result = $fun->devision($num1, $num2);
                 break;
+                
 
 
         }
